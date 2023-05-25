@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rathodsmeet" alt="rathodsmeet" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@rathod_smeet_" target="blank"><img src="https://img.shields.io/twitter/follow/@rathod_smeet_?logo=twitter&style=for-the-badge" alt="@rathod_smeet_" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript,Node js**
 
